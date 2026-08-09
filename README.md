@@ -10,5 +10,5 @@ If you are new to Github and open source then, visit [here](https://towardsdatas
 
 ## Featured project
 
-### [RiverForge — Hold'em GTO Solver](https://github.com/edwin-hou/coding-project)
+### [Poker Solver — Hold'em GTO Solver](https://github.com/edwin-hou/poker-solver)
 A standalone, browser-based CFR+ solver for heads-up two-card Texas Hold'em river spots, with exact combo blockers, seven-card hand evaluation, best-response exploitability measurement, and an interactive GitHub Pages interface.
