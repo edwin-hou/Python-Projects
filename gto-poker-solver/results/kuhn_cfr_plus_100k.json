@@ -1,0 +1,72 @@
+{
+  "game": "kuhn",
+  "parameters": {},
+  "solver": {
+    "algorithm": "cfr+",
+    "iterations": 100000,
+    "averaging_delay": 1000,
+    "full_tree": true,
+    "exact_best_response_evaluation": true
+  },
+  "game_tree": {
+    "nodes": 58,
+    "information_sets": 12
+  },
+  "evaluation": {
+    "profile_value_player_0": -0.055554807186,
+    "best_response_value_player_0": -0.055096616065,
+    "best_response_value_player_1": 0.055735380807,
+    "nash_conv": 0.000638764742,
+    "exploitability": 0.000319382371
+  },
+  "average_strategy": {
+    "Kuhn|P0|card=J|history=-": {
+      "check": 0.75258808,
+      "bet": 0.24741192
+    },
+    "Kuhn|P0|card=J|history=cb": {
+      "fold": 1.0,
+      "call": 0.0
+    },
+    "Kuhn|P0|card=K|history=-": {
+      "check": 0.25607829,
+      "bet": 0.74392171
+    },
+    "Kuhn|P0|card=K|history=cb": {
+      "fold": 0.0,
+      "call": 1.0
+    },
+    "Kuhn|P0|card=Q|history=-": {
+      "check": 1.0,
+      "bet": 0.0
+    },
+    "Kuhn|P0|card=Q|history=cb": {
+      "fold": 0.41895125,
+      "call": 0.58104875
+    },
+    "Kuhn|P1|card=J|history=b": {
+      "fold": 1.0,
+      "call": 0.0
+    },
+    "Kuhn|P1|card=J|history=c": {
+      "check": 0.66660481,
+      "bet": 0.33339519
+    },
+    "Kuhn|P1|card=K|history=b": {
+      "fold": 0.0,
+      "call": 1.0
+    },
+    "Kuhn|P1|card=K|history=c": {
+      "check": 0.0,
+      "bet": 1.0
+    },
+    "Kuhn|P1|card=Q|history=b": {
+      "fold": 0.66397489,
+      "call": 0.33602511
+    },
+    "Kuhn|P1|card=Q|history=c": {
+      "check": 1.0,
+      "bet": 0.0
+    }
+  }
+}
