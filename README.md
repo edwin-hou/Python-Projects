@@ -7,3 +7,8 @@ Feel free to use or implement any aspects of my projects into your own :)
 If you want to start learning python, visit [here](https://github.com/Python-World/Py-Resources).
 
 If you are new to Github and open source then, visit [here](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6).
+
+## Featured project
+
+### [GTO Poker Solver](gto-poker-solver/)
+A tested CFR/CFR+ solver for Kuhn Poker, Leduc Hold'em, and a configurable river abstraction, with exact best-response exploitability measurement and reproducible benchmark results.
