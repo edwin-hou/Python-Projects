@@ -10,5 +10,5 @@ If you are new to Github and open source then, visit [here](https://towardsdatas
 
 ## Featured project
 
-### [GTO Poker Solver](gto-poker-solver/)
-A tested CFR/CFR+ solver for Kuhn Poker, Leduc Hold'em, and a configurable river abstraction, with exact best-response exploitability measurement and reproducible benchmark results.
+### [RiverForge — Hold'em GTO Solver](https://github.com/edwin-hou/coding-project)
+A standalone, browser-based CFR+ solver for heads-up two-card Texas Hold'em river spots, with exact combo blockers, seven-card hand evaluation, best-response exploitability measurement, and an interactive GitHub Pages interface.
